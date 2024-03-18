@@ -17,23 +17,23 @@ Besides data science, I have a keen interest in drawing and reading books. I'm a
 ## GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetvigandhi03&layout=compact&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
 </p>
 
 <br/>
-
-![](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
-![](https://visitor-badge.glitch.me/badge?page_id=your-username.your-username)
+<!--
+![](https://komarev.com/ghpvc/?username=hetvigandhi03&color=brightgreen)
+![](https://visitor-badge.glitch.me/badge?page_id=hetvigandhi03.hetvigandhi03)
 <img src="https://img.shields.io/github/forks/your-username/your-repo?style=social" alt="Forks Badge">
 
 ### GitHub Activity
 
-![Your GitHub Contributions](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Contributions](https://github-readme-stats.vercel.app/api?username=hetvigandhi03&show_icons=true&theme=radical)
 
 #### Detailed Stats
 
-![Your GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&langs_count=8&theme=radical)
+![Your GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hetvigandhi03&langs_count=8&theme=radical)
 
 ## See my portfolio 🌐
 
