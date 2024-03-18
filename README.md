@@ -8,7 +8,7 @@
 
 Hey guys! 👋
 
-My name is [Hetvi Gandhi], and I'm currently in my pre-final year of my BTech in Computer Engineering at NMIMS University. I'm passionate about data science and data analytics. I enjoy exploring datasets to find insights and solve real-world problems.
+My name is Hetvi Gandhi, and I'm currently in my pre-final year of my BTech in Computer Engineering at NMIMS University. I'm passionate about data science and data analytics. I enjoy exploring datasets to find insights and solve real-world problems.
 
 You can checkout my published research paper [here]([link-to-your-research-pape](https://www.springerprofessional.de/en/detecting-toxic-comments-using-fasttext-cnn-and-lstm-models/25835412)r) 📝.
 
